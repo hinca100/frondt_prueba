@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pasos para instalar proyecto: 
+1 Descargar proyecto 
+2 npm install
+3 Descargar en el navegador CORS
+4 En el proyecto dar npm start
 
 ## Available Scripts
 
